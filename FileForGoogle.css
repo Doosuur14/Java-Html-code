@@ -1,0 +1,62 @@
+body{
+background-image: url("image.jpg");
+background-color: pink;
+}
+em {
+font-family: times new roman;
+font-size: 20px;
+}
+
+em1{
+font-family: verdana;
+font-size: 20px;
+}
+
+p{
+font- family: sans-serif;
+color: blue;
+font-size: 20px;
+}
+
+p2{
+font-family: arial;
+font-size:20px;
+color: green;
+}
+
+em2{
+font-family: times new roman;
+font-size: 20px;
+color: red;
+}
+
+p3{
+font-family: verdana;
+font-size: 20px;
+color: yellow;
+}
+
+p4{
+font-family: baskerville;
+font-size: 20px;
+
+}
+
+em3{
+font-size: 20px;
+}
+
+p5{
+font-family: italics;
+font-size: 20px;
+}
+
+em4{
+font-family: sans - serif;
+font-size: 20px;
+color: purple;
+}
+
+
+
+
